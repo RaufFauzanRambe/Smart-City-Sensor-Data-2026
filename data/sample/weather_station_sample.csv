@@ -1,0 +1,6 @@
+timestamp,device_id,location,temperature,humidity,wind_speed,status
+2026-01-01 08:00,WS_001,Zone_A,25.2,60,5.2,OK
+2026-01-01 08:01,WS_002,Zone_B,24.8,62,4.8,OK
+2026-01-01 08:02,WS_003,Zone_C,25.0,61,5.0,OK
+2026-01-01 08:03,WS_004,Zone_A,25.3,59,5.1,OK
+2026-01-01 08:04,WS_005,Zone_B,24.9,60,4.9,OK
