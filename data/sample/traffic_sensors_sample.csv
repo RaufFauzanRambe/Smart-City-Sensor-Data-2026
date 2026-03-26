@@ -1,0 +1,6 @@
+timestamp,device_id,location,traffic_count,avg_speed,status
+2026-01-01 08:00,TS_001,Zone_A,15,32,OK
+2026-01-01 08:01,TS_002,Zone_B,12,28,OK
+2026-01-01 08:02,TS_003,Zone_C,18,25,OK
+2026-01-01 08:03,TS_004,Zone_A,20,30,OK
+2026-01-01 08:04,TS_005,Zone_B,14,27,OK
