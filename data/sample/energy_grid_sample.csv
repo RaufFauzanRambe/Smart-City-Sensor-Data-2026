@@ -1,0 +1,6 @@
+timestamp,device_id,location,energy_usage,power_factor,voltage,current,status
+2026-01-01 08:00,EG_001,Zone_A,500,0.95,230,2.2,OK
+2026-01-01 08:01,EG_002,Zone_B,480,0.92,228,2.1,OK
+2026-01-01 08:02,EG_003,Zone_C,498,0.91,231,2.0,OK
+2026-01-01 08:03,EG_004,Zone_A,510,0.96,229,2.3,OK
+2026-01-01 08:04,EG_005,Zone_B,497,0.92,227,2.2,OK
